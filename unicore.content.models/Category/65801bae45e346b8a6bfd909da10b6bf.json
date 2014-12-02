@@ -1,0 +1,20 @@
+{
+  "subtitle": "Pregnancy_Hindi", 
+  "uuid": "65801bae45e346b8a6bfd909da10b6bf", 
+  "language": "hin_IN", 
+  "title": "\u0917\u0930\u094d\u092d\u093e\u0935\u0938\u094d\u0925\u093e", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "pregnancy_hindi", 
+  "source": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
