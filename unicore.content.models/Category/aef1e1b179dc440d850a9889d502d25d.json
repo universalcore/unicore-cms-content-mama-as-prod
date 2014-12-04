@@ -2,13 +2,13 @@
   "subtitle": "Expert BabyCenter information ", 
   "uuid": "aef1e1b179dc440d850a9889d502d25d", 
   "language": "hin_IN", 
-  "title": "MAMA to MAMA (Hindi)", 
+  "title": "MAMA to MAMA (proof that it changes)", 
   "image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "mama-to-mama", 
