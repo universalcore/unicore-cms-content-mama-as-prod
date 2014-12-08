@@ -6,12 +6,12 @@
   "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
   "created_at": "2014-12-08T20:30:02+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-08T20:52:02.611992+00:00", 
+  "modified_at": "2014-12-08T20:52:12.110864+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,7 +19,9 @@
   "content": "I am excited to have a new life inside me, but I feel worried at times. My mother-in-law has been saying that I will give birth to a baby boy. My husband has also been talking about how he would love to play cricket with his son. They are feeding me well and taking good care of me, but sometimes I get scared. What if it is a baby girl? Will they still treat me well if I am not able to bear a male heir for the family? My mother-in-law is strict and I can\u2019t imagine talking to my husband about this.\r\n\r\n**MAMA Help:** The father determines the gender of the child \u2013 not the mother! Gender is determined by two chromosomes, X and Y. A female is XX, a male is XY. Since women completely lack the Y choromosome, they always only contribute an X chromosome to the baby. So only the man can contribute the Y. It\u2019s all up to him! See if you can ask your doctor to explain this to your family so they don\u2019t blame you.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "tse"
+  ], 
   "image": null, 
   "published": null, 
   "position": 7, 
