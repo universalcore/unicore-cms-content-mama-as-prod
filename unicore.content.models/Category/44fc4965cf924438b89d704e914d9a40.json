@@ -1,0 +1,20 @@
+{
+  "subtitle": "Baby Marathi", 
+  "uuid": "44fc4965cf924438b89d704e914d9a40", 
+  "language": "mar_IN", 
+  "title": "\u092c\u093e\u0933", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "Baby_Marathi", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
