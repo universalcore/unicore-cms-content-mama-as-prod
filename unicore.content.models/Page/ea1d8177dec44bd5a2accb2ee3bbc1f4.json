@@ -5,24 +5,26 @@
   "title": "Confused about breastfeeding", 
   "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
   "created_at": "2014-12-08T20:41:49+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2014-12-08T20:51:47.430578+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-01-06T08:36:10.661441+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
   "content": "My baby was born at the hospital and the doctor and the nurse told me that I must only give her breastmilk \u2013 nothing else. Now that I am at home, I feel so confused. My mother-in-law has told me to give honey to my baby every morning. She says it will improve her immunity and make her more resistant to disease. I asked my husband and he says that that I should follow his mother\u2019s advice as she has more experience than me. But I remember the doctor said I must give her nothing but breastmilk until she is 6 months old. What should I do?\r\n\r\n**MAMA Help:** Listen to your doctor. You should give your baby only breastmilk and no other food - not even water or honey. If you can do this until your baby is 6 months you can reduce the risk of infectious diseases like diarrhoea. These diseases can cause malnutrition and stunting.", 
   "source": null, 
-  "featured": false, 
-  "author_tags": [], 
+  "featured": true, 
+  "author_tags": [
+    "tsepo"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 66, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "confused-about-breastfeeding", 
   "uuid": "ea1d8177dec44bd5a2accb2ee3bbc1f4"
