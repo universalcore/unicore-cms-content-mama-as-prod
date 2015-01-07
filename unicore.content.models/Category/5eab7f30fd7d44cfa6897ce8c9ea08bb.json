@@ -1,0 +1,20 @@
+{
+  "subtitle": "Pregnancy Telugu", 
+  "uuid": "5eab7f30fd7d44cfa6897ce8c9ea08bb", 
+  "language": "tel_IN", 
+  "title": "\u0c17\u0c30\u0c4d\u0c2d\u0c02", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "Pregnancy_Telugu", 
+  "source": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
