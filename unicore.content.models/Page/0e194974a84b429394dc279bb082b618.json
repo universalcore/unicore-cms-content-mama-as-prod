@@ -5,13 +5,13 @@
   "title": "\u091b\u0920\u093e \u092e\u0939\u0940\u0928\u093e", 
   "primary_category": "65801bae45e346b8a6bfd909da10b6bf", 
   "created_at": "2014-12-04T09:28:53+00:00", 
-  "featured_in_category": false, 
-  "modified_at": "2015-01-13T10:05:46.348646+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-01-13T10:06:26.278044+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
