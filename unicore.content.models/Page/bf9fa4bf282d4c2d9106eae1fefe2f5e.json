@@ -6,12 +6,12 @@
   "primary_category": "126b15e4ffab47fe937996bb083679ee", 
   "created_at": "2015-01-04T15:23:16+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-26T15:02:14.008764+00:00", 
+  "modified_at": "2015-02-09T18:25:50.437703+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 51, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "4monthold_Tam_baby", 
   "uuid": "bf9fa4bf282d4c2d9106eae1fefe2f5e"
