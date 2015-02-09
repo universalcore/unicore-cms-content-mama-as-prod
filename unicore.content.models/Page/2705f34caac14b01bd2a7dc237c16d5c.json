@@ -6,12 +6,12 @@
   "primary_category": "5eab7f30fd7d44cfa6897ce8c9ea08bb", 
   "created_at": "2015-01-07T22:23:16+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-01-26T12:09:20.543738+00:00", 
+  "modified_at": "2015-02-09T12:36:00.971072+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 19, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Month6_Tel_pregnancy", 
   "uuid": "2705f34caac14b01bd2a7dc237c16d5c"
