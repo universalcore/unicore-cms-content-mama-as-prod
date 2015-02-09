@@ -6,12 +6,12 @@
   "primary_category": "890229dcbaaa46c5be00232fa1156579", 
   "created_at": "2015-01-07T23:23:39+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-26T12:21:02.672826+00:00", 
+  "modified_at": "2015-02-09T12:36:26.756402+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 4, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "9monthold_Tel_baby", 
   "uuid": "8188ddf069c04ae1a6d7191633232839"
