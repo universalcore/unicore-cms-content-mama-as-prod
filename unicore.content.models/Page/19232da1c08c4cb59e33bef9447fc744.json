@@ -6,12 +6,12 @@
   "primary_category": "8516399a8adf4c07af9f178113e03ff2", 
   "created_at": "2015-01-05T12:10:23+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-01-22T11:16:40.104203+00:00", 
+  "modified_at": "2015-02-09T12:19:37.371942+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 46, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Month6_mar_pregnancy", 
   "uuid": "19232da1c08c4cb59e33bef9447fc744"
