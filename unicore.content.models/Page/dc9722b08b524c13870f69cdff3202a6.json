@@ -1,0 +1,29 @@
+{
+  "subtitle": "Healthy mom, healthy baby", 
+  "description": "Healthy mom, healthy baby", 
+  "language": "eng_GB", 
+  "title": "5 ways to stay healthy", 
+  "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
+  "created_at": "2015-02-10T09:53:24.145914+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-10T09:53:24.146783+00:00", 
+  "_version": {
+    "package_version": "0.3.5", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "**1.\tEat well.** Try to eat fruits and vegetables every day. Eat rice, roti, pulses (dal), porridge, coconut milk, milk and milk products like buttermilk (chhaach), paneer and curd. If you are non-vegetarian, have eggs, fish and other non-vegetarian food regularly. If possible, add nuts such as almond, walnut, cashew nuts and peanuts to your food to make it even healthier. Fruits like bananas, mangoes, jackfruit and ripe papayas are good. Get lots of them. Try to have 1 extra handful of food with every meal. Do not go without food for too long. Carry some food, such as dried chana or nuts, with you if you have to go somewhere.\r\n\r\n**2.\tGet check-ups** while you are pregnant. Try to have 4 visits to your doctor. Get your blood and urine tests and blood pressure checks done as often as your doctor or health worker advises. These tests help to find problems early. Then you can get treatment and keep yourself and your baby safe. \r\n\r\n**3.\tGet tested for HIV if you are worried.** If you are HIV+, there are medicines to help keep you well and prevent your baby from being born HIV+. If you find out you are not HIV+, you can make sure you stay that way.\r\n\r\n**4.\tTake your pregnancy tablets.** These tablets will make you stronger and help your baby grow well. Ask your health worker if you can get them free. \r\n\r\n**5.\tKeep clean.** Wash your hands with soap before cooking and eating and after using the toilet. This will help prevent diseases such as loose motions and typhoid.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "5-ways-stay-healthy", 
+  "uuid": "dc9722b08b524c13870f69cdff3202a6"
+}
