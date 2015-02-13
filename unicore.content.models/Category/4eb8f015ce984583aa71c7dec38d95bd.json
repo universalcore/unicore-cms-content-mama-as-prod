@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "4eb8f015ce984583aa71c7dec38d95bd", 
   "language": "mal_IN", 
-  "title": "\u0d2e\u0d2e\u0d4d\u0d2e \u0d1f\u0d41 \u0d2e\u0d2e\u0d4d\u0d2e", 
+  "title": "\u0d05\u0d2e\u0d4d\u0d2e\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d4d \u0d05\u0d2e\u0d4d\u0d2e\u0d2f\u0d41\u0d1f\u0d46 \u0d09\u0d2a\u0d26\u0d47\u0d36\u0d02", 
   "image": null, 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "mama-to-mama", 
