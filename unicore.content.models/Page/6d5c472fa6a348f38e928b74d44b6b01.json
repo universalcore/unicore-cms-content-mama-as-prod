@@ -6,15 +6,22 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-10T10:10:45+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-10T12:55:14.140436+00:00", 
+  "modified_at": "2015-02-17T10:44:27.888612+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "12e50711fef14a2bb285176e5390effd", 
+    "2fffafef040e4c5b86c4b5a5c5774f3b", 
+    "ea66c3610ce84a74b3a4ad3d44a87378", 
+    "0eac3a7d4a254c55a5d55173050d8eee", 
+    "d686888c6be147c6b28513ed2c547683", 
+    "48e9d2b7412d41578063ad843d1922da"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nHigh blood pressure can mean that your baby does not get all the food and oxygen he needs, so he may be born very small and weak. It can also make you very ill, and can cause fits, especially in later pregnancy.\r\n\r\nYou may not feel any different if you have high blood pressure, so it is important to see a health worker to check your blood pressure regularly while you are pregnant.\r\n\r\nA wide cuff will be put around your arm to measure your blood pressure. It will not hurt but it feels tight for a few moments. Your health worker will write the results down so that you have a record of your blood pressure at each visit. She will compare the measurements at each visit so she can spot any problems.\r\n\r\nYou are more likely to get high blood pressure if you are very overweight. Do not add salt to food. If you already have high blood pressure, this will make it worse.\r\n\r\nThere are medicines to control high blood pressure. Taking a calcium supplement helps, so ask about this at the clinic. See a health worker regularly, so any problems can be found early and you can get the right medicine.", 
   "source": null, 
