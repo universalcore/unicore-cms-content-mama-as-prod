@@ -6,15 +6,17 @@
   "primary_category": "e2a287abe22a47ef8e85c287ad2e5648", 
   "created_at": "2014-12-08T20:44:09+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-12T12:15:11.249632+00:00", 
+  "modified_at": "2015-03-12T12:19:03.839170+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "ea1d8177dec44bd5a2accb2ee3bbc1f4"
+  ], 
   "id": null, 
   "content": "I have always been thin, but active. My baby bump isn\u2019t showing yet, so I have been able to keep my pregnancy a secret. But I am not feeling very well. The other day I met my friend in the market and she said that I looked pale. I have also been feeling extremely tired and weak. I wake up in the morning feeling tired. For the past few days I have noticed that I feel short of breath if I climb up the stairs. We live on the first floor, so I can\u2019t avoid that. This morning I saw myself in the mirror. It looked as if my eyes are sunken and there are dark circles around them. My husband is very caring, he gets fruit and insists that I eat regularly and stay healthy. But I don\u2019t feel like eating. I think I should see the doctor; I last saw her 2 months back.\r\n\r\n**MAMA Help:** You must see your doctor and get your haemoglobin (red blood cell) levels checked. It is a simple blood test. If your haemoglobin is low you could have anaemia. Then your doctor will give you an iron supplement and you will feel better. During pregnancy it is important to visit your doctor if you don\u2019t feel well. You must also eat healthy food for youself and for your baby. Include jaggery, black grams, peanuts, fresh fruits, green leafy vegetables, and lentils.", 
   "source": null, 
@@ -24,7 +26,7 @@
   ], 
   "image": null, 
   "published": null, 
-  "position": 539, 
+  "position": 546, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "i-am-tired-and-drawn", 
   "uuid": "a7793cf0915540ee85df60fb36f0fbfe"
