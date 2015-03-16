@@ -6,12 +6,12 @@
   "primary_category": "126b15e4ffab47fe937996bb083679ee", 
   "created_at": "2015-03-12T10:33:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-12T11:26:40.746277+00:00", 
+  "modified_at": "2015-03-16T10:56:43.768901+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 54, 
+  "position": 187, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "TAM-why-get-him-vaccinated", 
   "uuid": "aa51fdde93d34fa98791d68b238b0265"
