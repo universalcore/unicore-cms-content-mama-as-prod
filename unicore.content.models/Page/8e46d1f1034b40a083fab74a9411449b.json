@@ -4,14 +4,14 @@
   "language": "mar_IN", 
   "title": "\u0927\u0942\u092e\u094d\u0930\u092a\u093e\u0928 \u0925\u093e\u0902\u092c\u0935\u093e", 
   "primary_category": "8516399a8adf4c07af9f178113e03ff2", 
-  "created_at": "2015-03-10T11:00:55.609980+00:00", 
+  "created_at": "2015-03-10T11:00:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-10T11:00:55.610234+00:00", 
+  "modified_at": "2015-03-19T12:44:18.463371+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 421, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "stop-smoking", 
   "uuid": "8e46d1f1034b40a083fab74a9411449b"
