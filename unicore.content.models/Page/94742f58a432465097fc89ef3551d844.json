@@ -6,16 +6,17 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-10T10:35:50+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-17T11:46:13.838153+00:00", 
+  "modified_at": "2015-03-24T12:01:21.592407+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "202db9dbd8c844059cce4df6b1901661"
+    "202db9dbd8c844059cce4df6b1901661", 
+    "9e526bf2b17e4074a15c4b9b333cef7a"
   ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nBreathing in smoke is harmful for you and your baby.\r\n \r\nIf your house is smoky, let in as much fresh air as possible. Open lots of windows and doors. This will help. Explain to other people what effect their smoking will have on your baby growing inside you.\r\n\r\nStay away from smoke. Smoke can make you weak and sick. Open the windows, if your house gets too smoky from cooking. If you live in a cold area where opening doors and windows is not possible, try to stay in the least smoky part of the house. \r\n\r\nAsk family and friends to smoke outside. \r\n\r\nYou could also try some of these ideas:\r\n\r\n-\tMove your stove outside if you can, so less smoke goes in the house\r\n-\tUse a kerosene stove or LPG if possible\r\n-\tUsing a lid or a pressure cooker will keep the heat inside the pot, and you can reduce cooking time, so you will breathe in less smoke\r\n-\tSoak food, especially rice, dals and pulses, before cooking to reduce cooking time\r\n-\tIf you can, put your stove at a higher level so you don\u2019t have to bend over and breathe in smoke. Or cook outside so you don\u2019t get smoke in the house at all.\r\n", 
@@ -24,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 70, 
+  "position": 591, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "your-house-smoky", 
   "uuid": "94742f58a432465097fc89ef3551d844"
