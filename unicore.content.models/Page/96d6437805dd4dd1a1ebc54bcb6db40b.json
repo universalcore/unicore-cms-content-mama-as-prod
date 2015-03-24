@@ -4,14 +4,14 @@
   "language": "mar_IN", 
   "title": "\u0924\u0941\u092e\u091a\u094d\u092f\u093e \u092c\u093e\u0933\u093e\u0932\u093e \u0915\u0938\u0947 \u0917\u0941\u0902\u0921\u093e\u0933\u093e\u092f\u091a\u0947", 
   "primary_category": "44fc4965cf924438b89d704e914d9a40", 
-  "created_at": "2015-03-10T11:40:39.836226+00:00", 
+  "created_at": "2015-03-10T11:40:39+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-10T11:40:39.836639+00:00", 
+  "modified_at": "2015-03-24T11:07:03.854820+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 410, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mar-how-swaddle-your-baby", 
   "uuid": "96d6437805dd4dd1a1ebc54bcb6db40b"
