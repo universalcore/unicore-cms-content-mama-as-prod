@@ -6,12 +6,12 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-10T10:41:09+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-02-17T11:51:03.397477+00:00", 
+  "modified_at": "2015-03-24T12:12:12.802302+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -20,7 +20,8 @@
     "a4f2e5bb3579490ab19dd485d7bcde84", 
     "730390376e3f4d06ba0e2a5e70017aa8", 
     "08d4a9a8325d42eaa6539cef593e8de7", 
-    "4107922e5f1d413c8b64dcfdcf494192"
+    "4107922e5f1d413c8b64dcfdcf494192", 
+    "12e50711fef14a2bb285176e5390effd"
   ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nNow you are pregnant, it is important to try to eat well so your baby will grow well. You and your growing baby need lots of different foods. \r\n\r\nA simple way to think about it is to eat lots of different coloured foods! \r\n\r\nYou could talk to your family about the food you need.\r\nTry to eat some of each of these food types every day:\r\n\r\n - Fruit and vegetables. These protect your baby from being born with a problem.\r\n - Starchy foods. These include roti, rice, maize (*makka*) and potatoes (*aloo*). These foods give you energy.\r\n - Foods rich in protein. These include eggs, beans, daal, chicken, fish, and meat. These are body building foods.\r\n - Calcium-rich and dairy foods. These include milk, milk products, paneer, curds, chick peas (*chana*) and curd. They help your baby grow strong bones.\r\n - Iron-rich food. These keep you and your baby strong. Iron-rich foods are meat, jaggery (*gur*), and leafy green vegetables. Citrus fruit, like lime (*nimbu*), orange (*santara*) and Indian gooseberry (*amla*), help your body absorb iron.\r\n - Use Iodised salt. If it is iodised, it will say this on the packet. Iodine helps you grow a strong and healthy baby.\r\n", 
@@ -29,7 +30,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 67, 
+  "position": 588, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "should-i-eat-differently", 
   "uuid": "7c7638562b7d4a479d6822e25e788f14"
