@@ -4,14 +4,14 @@
   "language": "hin_IN", 
   "title": "\u0927\u0942\u092e\u094d\u0930\u092a\u093e\u0928 \u0928 \u0915\u0930\u0947\u0902", 
   "primary_category": "65801bae45e346b8a6bfd909da10b6bf", 
-  "created_at": "2015-03-12T11:04:39.856187+00:00", 
+  "created_at": "2015-03-12T11:04:39+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-12T11:04:39.856471+00:00", 
+  "modified_at": "2015-04-09T08:39:53.019610+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 379, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "hin-stop-smoking", 
   "uuid": "f4813ec6ee3e4a8a97f8895ead4578e2"
