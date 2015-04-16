@@ -2,16 +2,16 @@
   "subtitle": "Your body is getting ready for labour", 
   "description": "Your body is getting ready for labour", 
   "language": "eng_GB", 
-  "title": "What are practice contrations?", 
+  "title": "What are practice contractions?", 
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-10T10:56:57+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-31T14:17:27.726812+00:00", 
+  "modified_at": "2015-04-16T08:34:33.678876+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -28,6 +28,6 @@
   "published": null, 
   "position": 671, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "what-are-practice-contrations", 
+  "slug": "what-are-practice-contractions", 
   "uuid": "cffbf32f63d84dd389a23a7f83396680"
 }
