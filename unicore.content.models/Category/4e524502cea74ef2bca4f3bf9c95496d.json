@@ -1,0 +1,20 @@
+{
+  "subtitle": "ben_pregnancy", 
+  "uuid": "4e524502cea74ef2bca4f3bf9c95496d", 
+  "language": "ben_IN", 
+  "title": "\u0997\u09b0\u09cd\u09ad\u09be\u09ac\u09b8\u09cd\u09a5\u09be", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "ben-pregnancy", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
