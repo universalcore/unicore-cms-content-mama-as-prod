@@ -4,14 +4,14 @@
   "language": "kan_IN", 
   "title": "\u0cb8\u0cc1\u0ca8\u0ccd\u0ca8\u0ca4\u0cbf \u0cb8\u0cc1\u0cb0\u0c95\u0ccd\u0cb7\u0cbf\u0ca4\u0cb5\u0cc7?", 
   "primary_category": "f95dfa9e28004253ac0ac579e7e98a53", 
-  "created_at": "2015-04-29T11:19:11.328968+00:00", 
+  "created_at": "2015-04-29T11:19:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-29T11:19:11.329289+00:00", 
+  "modified_at": "2015-05-07T09:34:16.395794+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 226, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "kan-circumcision-safe", 
   "uuid": "35ec6fb63394465ea1d357783e2261ba"
