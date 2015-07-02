@@ -2,13 +2,13 @@
   "subtitle": "Baby_punjabi", 
   "uuid": "ebf1433aa3ff4b5c9bb8f0beddd10b81", 
   "language": "pan_IN", 
-  "title": "\u0a17\u0a30\u0a2d", 
+  "title": "\u0a2c\u0a71\u0a1a\u0a3e", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "baby_punjabi", 
