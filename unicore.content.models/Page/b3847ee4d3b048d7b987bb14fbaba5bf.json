@@ -6,12 +6,12 @@
   "primary_category": "c19631d04e994418b86f57f7b7cea3c8", 
   "created_at": "2015-06-10T09:15:13+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-23T08:58:11.912975+00:00", 
+  "modified_at": "2015-07-02T09:06:32.762360+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -31,7 +31,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 142, 
+  "position": 34, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "PAN-warning-signs", 
   "uuid": "b3847ee4d3b048d7b987bb14fbaba5bf"
