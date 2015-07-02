@@ -2,13 +2,13 @@
   "subtitle": "Pregnancy_Punjabi", 
   "uuid": "c19631d04e994418b86f57f7b7cea3c8", 
   "language": "pan_IN", 
-  "title": "Pregnancy_Punjabi", 
+  "title": "\u0a17\u0a30\u0a2d", 
   "image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "pregnancy_punjabi", 
