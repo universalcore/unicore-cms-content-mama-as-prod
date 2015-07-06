@@ -6,12 +6,12 @@
   "primary_category": "4e524502cea74ef2bca4f3bf9c95496d", 
   "created_at": "2015-06-11T08:13:02+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-06-11T09:47:35.464615+00:00", 
+  "modified_at": "2015-07-06T08:14:26.996221+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 19, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "BEN-month3", 
   "uuid": "221caf57fa914ce0a7a0838343c67a63"
