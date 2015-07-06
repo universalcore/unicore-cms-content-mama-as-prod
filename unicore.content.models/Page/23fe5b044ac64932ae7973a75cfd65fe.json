@@ -6,12 +6,12 @@
   "primary_category": "4e524502cea74ef2bca4f3bf9c95496d", 
   "created_at": "2015-04-30T08:19:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-30T08:51:15.128901+00:00", 
+  "modified_at": "2015-07-06T08:14:34.381357+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -26,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 372, 
+  "position": 43, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "ben-why-do-i-need-rest", 
   "uuid": "23fe5b044ac64932ae7973a75cfd65fe"
