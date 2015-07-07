@@ -1,14 +1,14 @@
 {
   "subtitle": "urdu_baby", 
   "uuid": "73c94dd24db34e5a921711c2cd54033f", 
-  "language": "urd_IN", 
+  "language": "urd_PK", 
   "title": "\u0628\u0686\u06c1", 
   "image": null, 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "slug": "baby", 
