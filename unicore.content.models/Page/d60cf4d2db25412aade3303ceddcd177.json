@@ -1,17 +1,17 @@
 {
   "subtitle": "URDU Stop smoking", 
   "description": "\u062a\u0645\u0628\u0627\u06a9\u0648 \u0646\u0648\u0634\u06cc \u0622\u067e \u0627\u0648\u0631 \u0622\u067e \u06a9\u06d2 \u0628\u0686\u06d2 \u06a9\u06d2 \u0644\u06cc\u06d2 \u062e\u0631\u0627\u0628 \u06c1\u06d2", 
-  "language": "urd_IN", 
+  "language": "urd_PK", 
   "title": "\u062a\u0645\u0628\u0627\u06a9\u0648 \u0646\u0648\u0634\u06cc \u0686\u06be\u0648\u0691 \u062f\u06cc\u06ba", 
   "primary_category": "d18b60a609c54db38d989ec556d4ac62", 
   "created_at": "2015-04-30T10:51:30+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-06T08:15:28.093890+00:00", 
+  "modified_at": "2015-07-08T18:39:42.911495+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
