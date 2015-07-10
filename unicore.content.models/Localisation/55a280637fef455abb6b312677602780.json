@@ -3,13 +3,13 @@
   "logo_image_host": "http://thumbor.unicore.io", 
   "locale": "pan_IN", 
   "image": null, 
-  "logo_text": "", 
+  "logo_text": "BabyCenter \u0a24\u0a4b\u0a02 \u0a2e\u0a3e\u0a39\u0a3f\u0a30 \u0a1c\u0a3e\u0a23\u0a15\u0a3e\u0a30\u0a40", 
   "logo_image": null, 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "logo_description": "", 
