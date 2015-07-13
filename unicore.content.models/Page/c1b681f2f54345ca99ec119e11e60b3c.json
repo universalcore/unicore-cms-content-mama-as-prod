@@ -6,12 +6,12 @@
   "primary_category": "f95dfa9e28004253ac0ac579e7e98a53", 
   "created_at": "2015-06-16T10:07:34+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-18T10:09:09.031055+00:00", 
+  "modified_at": "2015-07-13T14:14:36.346229+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 4, 
+  "position": 7, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "KAN-5monthold", 
   "uuid": "c1b681f2f54345ca99ec119e11e60b3c"
