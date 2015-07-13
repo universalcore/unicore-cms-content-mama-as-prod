@@ -6,12 +6,12 @@
   "primary_category": "ec5e2274741640b7abb600ce1b478b1d", 
   "created_at": "2015-06-16T09:43:03+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-06-18T09:59:27.353972+00:00", 
+  "modified_at": "2015-07-13T14:14:12.989236+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 10, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "KAN-Month9", 
   "uuid": "3308213ac24740fa88ce52ac78d7253e"
