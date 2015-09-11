@@ -6,18 +6,17 @@
   "primary_category": "126b15e4ffab47fe937996bb083679ee", 
   "created_at": "2015-03-12T09:29:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-03-12T12:55:48.932648+00:00", 
+  "modified_at": "2015-09-11T11:42:18.222509+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "aafb02299c074e0b9b8b7668d40d688c", 
     "a8bb0021a4244c408470c353e583698b", 
-    "12270a641fab40bc9ed74e7b48877924", 
     "2a75381380c0484ea31d40c3b07709e5"
   ], 
   "id": null, 
@@ -27,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 213, 
+  "position": 948, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "TAM-your-first-milk-best", 
   "uuid": "a0315d28be30419296c78d317735f449"
