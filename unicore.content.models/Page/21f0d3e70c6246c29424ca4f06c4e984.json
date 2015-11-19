@@ -6,12 +6,12 @@
   "primary_category": "1349292226eb42f79bcba5559bdaaf9c", 
   "created_at": "2015-03-17T11:17:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-11T11:41:04.921958+00:00", 
+  "modified_at": "2015-11-19T08:24:49.042328+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -26,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 668, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "GUJ-your-baby-coming-now", 
   "uuid": "21f0d3e70c6246c29424ca4f06c4e984"
