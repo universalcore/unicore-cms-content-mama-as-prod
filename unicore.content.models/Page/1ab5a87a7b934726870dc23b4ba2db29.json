@@ -6,12 +6,12 @@
   "primary_category": "a4649ae61f0148a280469848209602a1", 
   "created_at": "2015-03-10T11:13:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-11T11:42:41.867697+00:00", 
+  "modified_at": "2015-11-19T08:25:05.737985+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -31,7 +31,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1038, 
+  "position": 34, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "TAM-warning-signs", 
   "uuid": "1ab5a87a7b934726870dc23b4ba2db29"
