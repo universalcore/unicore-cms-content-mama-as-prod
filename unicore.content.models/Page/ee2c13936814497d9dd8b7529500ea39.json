@@ -6,17 +6,17 @@
   "primary_category": "a4456eef7c5846569af99784b6b96b0c", 
   "created_at": "2015-04-30T09:09:11+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-11T11:40:19.451176+00:00", 
+  "modified_at": "2015-11-19T08:28:03.302897+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
-    "aff11ab9bed3436196580a94da8936d3", 
     "e2e6249197e9426ea5f51db3824ab361", 
+    "aff11ab9bed3436196580a94da8936d3", 
     "755b203309f04523b3671858ff1a46c3"
   ], 
   "id": null, 
@@ -26,7 +26,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 326, 
+  "position": 53, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "ben-breastfeeding-how-start", 
   "uuid": "ee2c13936814497d9dd8b7529500ea39"
