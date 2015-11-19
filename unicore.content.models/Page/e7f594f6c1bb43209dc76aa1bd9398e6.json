@@ -6,12 +6,12 @@
   "primary_category": "8523f364949a4c409eb7d139d578897c", 
   "created_at": "2015-03-12T11:32:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-11T11:41:51.361030+00:00", 
+  "modified_at": "2015-11-19T08:27:47.993285+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -27,7 +27,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 845, 
+  "position": 42, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "hin-breastmilk-all-she-needs", 
   "uuid": "e7f594f6c1bb43209dc76aa1bd9398e6"
