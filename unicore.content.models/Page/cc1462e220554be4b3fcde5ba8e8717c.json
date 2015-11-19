@@ -6,12 +6,12 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-02-10T12:02:01+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-11T11:43:05.524897+00:00", 
+  "modified_at": "2015-11-19T08:25:42.450856+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -27,7 +27,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1118, 
+  "position": 8, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "when-will-my-baby-sit", 
   "uuid": "cc1462e220554be4b3fcde5ba8e8717c"
