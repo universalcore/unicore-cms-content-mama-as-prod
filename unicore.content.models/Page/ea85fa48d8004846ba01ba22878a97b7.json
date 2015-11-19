@@ -6,12 +6,12 @@
   "primary_category": "a4456eef7c5846569af99784b6b96b0c", 
   "created_at": "2015-06-11T09:32:53+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-11T11:40:05.830701+00:00", 
+  "modified_at": "2015-11-19T08:27:55.921461+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 111, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "BEN-1-year-old", 
   "uuid": "ea85fa48d8004846ba01ba22878a97b7"
