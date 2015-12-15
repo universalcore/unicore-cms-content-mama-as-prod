@@ -3,15 +3,15 @@
   "logo_image_host": "http://thumbor.unicore.io", 
   "locale": "tel_IN", 
   "image": null, 
-  "logo_text": null, 
+  "logo_text": "\u0c28\u0c3f\u0c2a\u0c41\u0c23\u0c41\u0c32 \u0c28\u0c41\u0c02\u0c21\u0c3f \u0c38\u0c32\u0c39\u0c3e", 
   "logo_image": null, 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "logo_description": null, 
+  "logo_description": "\u0c28\u0c3f\u0c2a\u0c41\u0c23\u0c41\u0c32 \u0c28\u0c41\u0c02\u0c21\u0c3f \u0c38\u0c32\u0c39\u0c3e", 
   "image_host": "http://thumbor.unicore.io"
 }
