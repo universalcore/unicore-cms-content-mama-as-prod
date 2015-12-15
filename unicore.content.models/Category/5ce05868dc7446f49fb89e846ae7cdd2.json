@@ -1,0 +1,20 @@
+{
+  "subtitle": "Staying healthy GUJ", 
+  "uuid": "5ce05868dc7446f49fb89e846ae7cdd2", 
+  "language": "guj_IN", 
+  "title": "\u0ab8\u0acd\u0ab5\u0abe\u0ab8\u0acd\u0aa5\u0acd\u0aaf\u0aaa\u0acd\u0ab0\u0aa6 \u0ab0\u0ab9\u0ac7\u0ab5\u0ac1\u0a82", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "staying_healthy_GUJ", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
