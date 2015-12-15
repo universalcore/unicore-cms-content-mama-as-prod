@@ -1,0 +1,20 @@
+{
+  "subtitle": "Staying healthy KAN", 
+  "uuid": "e6a90f6287054b1bbfcf69ec48a4aba6", 
+  "language": "kan_IN", 
+  "title": "\u0c86\u0cb0\u0ccb\u0c97\u0ccd\u0caf\u0cb5\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0cb5\u0cc1\u0ca6\u0cc1", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "staying_healthy_KAN", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
