@@ -1,0 +1,20 @@
+{
+  "subtitle": "Staying healthy HIN", 
+  "uuid": "ea99017cb39c4d9c832405290c881bb2", 
+  "language": "hin_IN", 
+  "title": "\u0938\u094d\u200d\u0935\u0938\u094d\u200d\u0925 \u0915\u0948\u0938\u0947 \u0930\u0939\u093e \u091c\u093e\u090f", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "staying_healthy_hin", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
