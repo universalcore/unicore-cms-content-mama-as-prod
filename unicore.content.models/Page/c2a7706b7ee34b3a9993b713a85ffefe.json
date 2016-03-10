@@ -6,12 +6,12 @@
   "primary_category": "cceae63649e04e58a93e364f9b8f3c84", 
   "created_at": "2015-03-10T11:00:08+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-16T11:35:28.572378+00:00", 
+  "modified_at": "2016-03-10T14:15:26.863841+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 19, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mar-clean-safe-water", 
   "uuid": "c2a7706b7ee34b3a9993b713a85ffefe"
