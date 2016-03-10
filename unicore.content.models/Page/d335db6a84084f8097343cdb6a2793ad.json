@@ -6,12 +6,12 @@
   "primary_category": "88b15dde244c4898b40550fdc3e7b5e8", 
   "created_at": "2015-03-12T12:25:32+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-16T11:58:35.958445+00:00", 
+  "modified_at": "2016-03-10T14:19:03.618250+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -31,7 +31,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 32, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "tel-warning-signs", 
   "uuid": "d335db6a84084f8097343cdb6a2793ad"
