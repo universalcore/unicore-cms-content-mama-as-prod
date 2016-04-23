@@ -6,12 +6,12 @@
   "primary_category": "ec5e2274741640b7abb600ce1b478b1d", 
   "created_at": "2015-04-29T10:22:00+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-09-11T11:39:50.176411+00:00", 
+  "modified_at": "2016-04-23T10:48:57.848906+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 51, 
+  "position": 48, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "kan-i-am-constipated-help", 
   "uuid": "0418a3a4483048f9ba72c2d2e0981fbf"
