@@ -6,12 +6,12 @@
   "primary_category": "65801bae45e346b8a6bfd909da10b6bf", 
   "created_at": "2015-03-12T11:02:12+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-11-19T08:24:31.787454+00:00", 
+  "modified_at": "2016-08-29T09:37:29.539554+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 21, 
+  "position": 25, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "hin-can-i-use-traditional-remedies", 
   "uuid": "9832baad218049f28b18c64000eef223"
