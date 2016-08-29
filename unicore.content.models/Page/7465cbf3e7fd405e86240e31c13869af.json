@@ -6,12 +6,12 @@
   "primary_category": "a4649ae61f0148a280469848209602a1", 
   "created_at": "2015-03-10T12:13:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-11-19T08:25:02.128367+00:00", 
+  "modified_at": "2016-08-29T09:36:02.317912+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 9, 
+  "position": 13, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "TAM-how-have-safe-birth", 
   "uuid": "7465cbf3e7fd405e86240e31c13869af"
