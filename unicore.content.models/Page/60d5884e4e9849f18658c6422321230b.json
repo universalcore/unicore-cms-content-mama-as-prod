@@ -6,12 +6,12 @@
   "primary_category": "8516399a8adf4c07af9f178113e03ff2", 
   "created_at": "2015-03-10T11:09:23+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-11-19T08:23:30.099812+00:00", 
+  "modified_at": "2016-08-29T09:35:55.204333+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -27,7 +27,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 8, 
+  "position": 12, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mar-where-have-my-baby", 
   "uuid": "60d5884e4e9849f18658c6422321230b"
