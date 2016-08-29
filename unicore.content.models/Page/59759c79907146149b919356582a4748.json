@@ -6,12 +6,12 @@
   "primary_category": "890229dcbaaa46c5be00232fa1156579", 
   "created_at": "2015-03-19T10:54:56+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-11-19T08:28:42.244733+00:00", 
+  "modified_at": "2016-08-29T09:35:37.207537+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 6, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "tel-my-baby-move", 
   "uuid": "59759c79907146149b919356582a4748"
