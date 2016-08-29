@@ -8,8 +8,8 @@
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "logo_description": " \u0935\u093f\u0936\u0947\u0937\u091c\u094d\u091e\u094b\u0902 \u0938\u0947 \u0938\u0932\u093e\u0939", 
