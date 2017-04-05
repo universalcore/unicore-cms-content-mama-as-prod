@@ -1,0 +1,20 @@
+{
+  "subtitle": "Staying healthy PAN", 
+  "uuid": "65661d5a73ba4747a6e5c030c70239bb", 
+  "language": "pan_IN", 
+  "title": "\u0a38\u0a3f\u0a39\u0a24\u0a2e\u0a70\u0a26 \u0a30\u0a39\u0a3f\u0a23\u0a3e", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "staying-healthy", 
+  "source": "121e0215683d4c8992c7fdffe6db9bd0", 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

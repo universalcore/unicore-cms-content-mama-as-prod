@@ -1,0 +1,20 @@
+{
+  "subtitle": "Staying healthy BEN", 
+  "uuid": "9e6fc883770b485c98700c05397f68c4", 
+  "language": "ben_IN", 
+  "title": "\u09b8\u09c1\u09b8\u09cd\u09a5 \u09a5\u09be\u0995\u09be", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "staying-healthy", 
+  "source": "121e0215683d4c8992c7fdffe6db9bd0", 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

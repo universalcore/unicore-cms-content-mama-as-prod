@@ -1,0 +1,20 @@
+{
+  "subtitle": "Baby_punjabi", 
+  "uuid": "ebf1433aa3ff4b5c9bb8f0beddd10b81", 
+  "language": "pan_IN", 
+  "title": "\u0a2c\u0a71\u0a1a\u0a3e", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.2.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "baby", 
+  "source": "4eafe002ebea4c7a97a7743183f70de1", 
+  "position": 1, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
